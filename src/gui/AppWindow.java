@@ -27,7 +27,7 @@ public class AppWindow extends JFrame {
     private JButton runBtn, clearBtn, exportBtn, copyBtn, resetFilterBtn;
 
     public AppWindow() {
-        setTitle("Scanner de Red - Rework");
+        setTitle("Scanner de Red");
         setSize(900, 560);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
