@@ -1,5 +1,5 @@
 
-# Escáner de Red (Rework) – Entrega Final
+# Escáner de Red – Entrega Final
 
 Proyecto en Java con interfaz Swing para escanear un rango de IPs, resolver nombres de host, filtrar/ordenar resultados y exportar a CSV.
 
